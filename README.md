@@ -1,4 +1,4 @@
-# issues
+# Cannabot · Issues  
 A repository to report bugs or issues found with Cannabot. 💎
 
 ## How do I report?
